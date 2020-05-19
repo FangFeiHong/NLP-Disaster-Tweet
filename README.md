@@ -15,4 +15,5 @@ From competition homepage [here](https://www.kaggle.com/c/nlp-getting-started/ov
 
 ### Things that I did in this notebook :
 * A litte exploration on Data
-* Create a model using Multinomial Naive Bayes
+* Create a model using Multinomial Naive Bayes and Passive Aggressive Classifier
+* Create submission file in csv based on the prediction of the model.
